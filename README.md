@@ -17,3 +17,5 @@ buildscript {
         classpath 'com.gradle:myplugin:1.0-SNAPSHOT'
     }
 }
+
+ apply plugin: 'myplugin'
